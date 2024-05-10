@@ -15,8 +15,8 @@ Welcome to my GitHub account! I'm Marcelo Monaco a System Engineer passionate ab
 ### :technologist: About me
 
 - :computer: I currently work in the `Big Data` area at `Santander Digital Services`, where I spend most of my time working with `Azure and Databricks`.
-- :microscope: I’m currently spending a lot of time working with `Databricks`.
-- 🔭 I'm actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
+- :v: I'm looking to collaborate on `Open-Source Projects` and contribute to the developer community.
+- :microscope: In addition to being passionate about Go, I also love coding in Rust..
 
 ### :hobby: My hobbies
 
