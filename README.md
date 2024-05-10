@@ -25,7 +25,7 @@ Welcome to my GitHub account! I'm Marcelo Monaco a System Engineer passionate ab
 - :jp: Huge anime fan here! Evangelion is definitely my all-time favorite, but I'm always open to recommendations. Check out my [MyAnimeList](https://myanimelist.net/profile/seriallink) profile to see what I'm watching now.
 - :guitar: Coding always gets better with some thrash metal and hardcore. Bands like Faith No More, Slayer, Pantera, and Hatebreed are my go-to for getting pumped.
 - :dog: Proud owner of three amazing Cane Corso dogs: Odin, Poison, and Bella. They keep me active on walks and always know how to cheer me up.
-- :sports: Die-hard Boston Bruins and Patriots fan! You can find me glued to the TV during hockey and football season. Go Bruins! Go Pats!
+- :football: Die-hard Boston Bruins and Patriots fan! You can find me glued to the TV during hockey and football season. Go Bruins! Go Pats!
 
 <!--
 https://gist.github.com/rxaviers/7360908
