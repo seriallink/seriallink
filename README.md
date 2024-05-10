@@ -1,3 +1,5 @@
+(assets/gorangers.jpg)
+
 ### Hi there 👋
 
 <!--
