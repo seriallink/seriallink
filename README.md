@@ -4,6 +4,8 @@
 
 [![shield](https://img.shields.io/badge/linkedin-marcelomonaco-27577f?style=flat&logo=linkedin&logoColor=3f8dcc)](https://www.linkedin.com/in/marcelomonaco/)
 
+Welcome to my Github account! I'm Marcelo Monaco a System Engineer passionate about Go (Golang).
+
 <!--
 **seriallink/seriallink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
