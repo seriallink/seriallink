@@ -4,7 +4,7 @@
 
 [![shield](https://img.shields.io/badge/github-seriallink-24292e?style=flat&logo=github)](https://github.com/seriallink)
 [![shield](https://img.shields.io/badge/linkedin-marcelomonaco-27577f?style=flat&logo=linkedin&logoColor=3f8dcc)](https://www.linkedin.com/in/marcelomonaco/)
-[![shield](https://img.shields.io/badge/instagram-marcelo.monaco-C13584?style=flat&logo=instagram&logoColor=C13584)](https://untappd.com/user/seriallink)
+[![shield](https://img.shields.io/badge/instagram-marcelo.monaco-C13584?style=flat&logo=instagram&logoColor=C13584)](https://www.instagram.com/marcelo.monaco/)
 
 Welcome to my GitHub account! I'm Marcelo Monaco a System Engineer passionate about Go (Golang).
 
