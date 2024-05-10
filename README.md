@@ -1,4 +1,4 @@
-(assets/gorangers.jpg)
+![about-me](assets/gorangers.jpg)
 
 ### Hi there 👋
 
