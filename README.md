@@ -15,31 +15,18 @@ Welcome to my GitHub account! I'm Marcelo Monaco a System Engineer passionate ab
 ### :technologist: About me
 
 - :computer: I currently work in the `Big Data` area at `Santander Digital Services`.
-- where I spend most of my time working with `Azure and Databricks`.
-- :microscope: In addition to being passionate about `Go`, I also love coding in `Rust`.
+- :fire: At work, I spend most of my time doing things with `Azure and Databricks`.
+- :page_with_curl: In addition to being passionate about `Go`, I also love coding in `Rust`.
 - :microscope: I'm looking to collaborate on `Open-Source Projects` and contribute to the developer community.
 
-### :hearts: My hobbies
+### :hearts: My likes
 
-- :beers: I'm a beer enthusiast and I love to try new beers. Check out my [Untappd](https://untappd.com/user/seriallink) profile.
-- :video_game: I'm a gamer and I love to play video games.
-- :music_note: I'm a heavy metal fan and I love to listen to heavy metal music.
-- :anime: I'm an anime fan and Evangelion is my favorite one. Check out my [MyAnimeList](https://myanimelist.net/profile/seriallink) profile.
-- :dog: I'm a proud owner of three Cane Corso dogs. (Odin, Poison and Bella)
-- :sports: I'm a Boston Bruins and Patriots fan and I love to watch hockey and football games.
+- :beers: I'm a beer enthusiast and love trying new craft beers, especially Imperial Stout and Barleywine. Check out my [Untappd](https://untappd.com/user/seriallink) profile for my latest finds! 
+- :jp: Huge anime fan here! Evangelion is definitely my all-time favorite, but I'm always open to recommendations. Check out my [MyAnimeList](https://myanimelist.net/profile/seriallink) profile to see what I'm watching now.
+- :guitar: Coding always gets better with some thrash metal and hardcore. Bands like Faith No More, Slayer, Pantera, and Hatebreed are my go-to for getting pumped.
+- :dog: Proud owner of three amazing Cane Corso dogs: Odin, Poison, and Bella. They keep me active on walks and always know how to cheer me up.
+- :sports: Die-hard Boston Bruins and Patriots fan! You can find me glued to the TV during hockey and football season. Go Bruins! Go Pats!
 
 <!--
-**seriallink/seriallink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+https://gist.github.com/rxaviers/7360908
 -->
